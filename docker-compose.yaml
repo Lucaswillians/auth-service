@@ -13,8 +13,6 @@ services:
        - postgres:/data/postgres
     ports:
       - "5432:5432"
-    networks:
-      - backend
     restart: unless-stopped
 
   # Serviço do microserviço NestJS (sem Dockerfile)
@@ -37,13 +35,7 @@ services:
     command: npm run start:prod
     depends_on:
       - postgres
-    networks:
-      - backend
     restart: unless-stopped
-
-networks:
-  backend:
-    driver: bridge
 
 volumes:
     postgres:

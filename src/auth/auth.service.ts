@@ -55,10 +55,10 @@ export class AuthService {
 
     await this.rateLimiterService.resetAttempts(ip, username);
 
-    const payload = { sub: user.id, username: user.username };
+    const payload = { sub: user.id, username: user.username, role: user.role };
 
     this.logger.info(`Login successful -> catched by log: ${username}`);
 
-    return { message: 'Login successful', access_token: await this.jwtService.signAsync(payload) };
+    return { message: 'Login succesfuly', access_token: await this.jwtService.signAsync(payload, { secret: 'JWT_SECRET' }) };
   }
 }
