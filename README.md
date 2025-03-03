@@ -1,4 +1,4 @@
-# Finance API
+# Auth service
 
 Este repositório contém a implementação do **Auth Service**, responsável pela autenticação de usuários e gerenciamento de permissões na aplicação **Finance API**. O serviço lida com a criação de usuários, autenticação via JWT, controle de acesso por roles (usuário comum e administrador) e a proteção de endpoints da API.
 
