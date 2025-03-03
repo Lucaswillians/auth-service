@@ -32,3 +32,92 @@
 {"level":"info","message":"Login successful -> catched by log: Cristiano Ronaldo","timestamp":"2025-03-01T00:10:12.755Z"}
 {"level":"warn","message":"Login try to user: Cristiano Ronaldo","timestamp":"2025-03-01T00:18:06.923Z"}
 {"level":"info","message":"Login successful -> catched by log: Cristiano Ronaldo","timestamp":"2025-03-01T00:18:07.020Z"}
+{"level":"warn","message":"Login try to user: Cristiano Ronaldo","timestamp":"2025-03-02T18:30:36.806Z"}
+{"level":"info","message":"Login successful -> catched by log: Cristiano Ronaldo","timestamp":"2025-03-02T18:30:36.899Z"}
+{"level":"warn","message":"Login try to user: teste conta 2","timestamp":"2025-03-02T18:34:37.188Z"}
+{"level":"info","message":"Login successful -> catched by log: teste conta 2","timestamp":"2025-03-02T18:34:37.295Z"}
+{"level":"warn","message":"Login try to user: reciver","timestamp":"2025-03-02T18:38:19.204Z"}
+{"level":"info","message":"Login successful -> catched by log: reciver","timestamp":"2025-03-02T18:38:19.307Z"}
+{"level":"warn","message":"Login try to user: reciver","timestamp":"2025-03-02T18:39:51.110Z"}
+{"level":"info","message":"Login successful -> catched by log: reciver","timestamp":"2025-03-02T18:39:51.213Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-02T18:40:01.128Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-02T18:40:03.946Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-02T18:40:19.663Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-02T18:40:58.832Z"}
+{"level":"info","message":"Login successful -> catched by log: Payer","timestamp":"2025-03-02T18:40:58.935Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-02T18:43:26.332Z"}
+{"level":"info","message":"Login successful -> catched by log: Payer","timestamp":"2025-03-02T18:43:26.437Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-02T18:46:27.634Z"}
+{"level":"info","message":"Login successful -> catched by log: Payer","timestamp":"2025-03-02T18:46:27.738Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-02T18:52:14.057Z"}
+{"level":"info","message":"Login successful -> catched by log: Payer","timestamp":"2025-03-02T18:52:14.160Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-02T18:58:17.095Z"}
+{"level":"info","message":"Login successful -> catched by log: Payer","timestamp":"2025-03-02T18:58:17.194Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-02T19:02:04.955Z"}
+{"level":"info","message":"Login successful -> catched by log: Payer","timestamp":"2025-03-02T19:02:05.059Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-02T19:53:50.080Z"}
+{"level":"info","message":"Login successful -> catched by log: Payer","timestamp":"2025-03-02T19:53:50.183Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-02T20:25:15.606Z"}
+{"level":"info","message":"Login successful -> catched by log: Payer","timestamp":"2025-03-02T20:25:15.707Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-02T21:12:58.336Z"}
+{"level":"info","message":"Login successful -> catched by log: Payer","timestamp":"2025-03-02T21:12:58.442Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-02T21:36:39.558Z"}
+{"level":"info","message":"Login successful -> catched by log: Payer","timestamp":"2025-03-02T21:36:39.644Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-02T21:41:03.299Z"}
+{"level":"info","message":"Login successful -> catched by log: Payer","timestamp":"2025-03-02T21:41:03.394Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-02T21:48:58.764Z"}
+{"level":"info","message":"Login successful -> catched by log: Payer","timestamp":"2025-03-02T21:48:58.853Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-03T01:02:52.705Z"}
+{"level":"info","message":"Login successful -> catched by log: Payer","timestamp":"2025-03-03T01:02:52.804Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-03T01:12:06.653Z"}
+{"level":"info","message":"Login successful -> catched by log: Payer","timestamp":"2025-03-03T01:12:06.750Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-03T01:16:42.560Z"}
+{"level":"info","message":"Login successful -> catched by log: Payer","timestamp":"2025-03-03T01:16:42.662Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-03T01:21:53.808Z"}
+{"level":"info","message":"Login successful -> catched by log: Payer","timestamp":"2025-03-03T01:21:53.901Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-03T01:36:28.324Z"}
+{"level":"info","message":"Login successful -> catched by log: Payer","timestamp":"2025-03-03T01:36:28.404Z"}
+{"level":"warn","message":"Login try to user: Payer","timestamp":"2025-03-03T14:12:36.797Z"}
+{"level":"info","message":"Login successful -> catched by log: Payer","timestamp":"2025-03-03T14:12:36.865Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T15:10:11.152Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T15:10:11.254Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T15:47:43.051Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T15:47:43.154Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T15:58:06.494Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T15:58:06.589Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T16:01:22.031Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T16:01:22.129Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T16:03:48.835Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T16:03:48.941Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T16:16:58.669Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T16:16:58.768Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T16:20:51.422Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T16:20:51.529Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T16:27:59.901Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T16:28:00.003Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T16:33:31.926Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T16:33:32.030Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T16:38:36.027Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T16:38:36.120Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T16:44:41.283Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T16:44:41.389Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T16:53:51.760Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T16:53:51.862Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T17:00:02.686Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T17:00:02.789Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T17:07:52.373Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T17:07:52.473Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T17:10:56.226Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T17:10:56.329Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T17:20:04.789Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T17:20:04.890Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T18:56:27.112Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T18:56:27.183Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T19:02:03.671Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T19:02:03.770Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T19:07:28.021Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T19:07:28.128Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T19:37:15.511Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T19:37:15.592Z"}
+{"level":"warn","message":"Login try to user: payer","timestamp":"2025-03-03T19:40:38.369Z"}
+{"level":"info","message":"Login successful -> catched by log: payer","timestamp":"2025-03-03T19:40:38.473Z"}
